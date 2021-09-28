@@ -1,0 +1,17 @@
+.work-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    height: 25%;
+    margin-top: 50px;
+}
+
+.work-info h1 {
+    margin-right: auto;
+}
+
+.work-form {
+    display:flex;
+    flex-direction: column;
+}

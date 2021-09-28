@@ -1,0 +1,21 @@
+.education-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    height: 25%;
+    margin-top: 50px;
+}
+
+.education-info h1 {
+    margin-right: auto;
+}
+
+.education-form {
+    display:flex;
+    flex-direction: column;
+}
+
+.add-education {
+    margin-top: 30px;
+}
