@@ -1,5 +1,6 @@
 {
   "name": "cv-project",
+  "homepage": "http://jonthejon10.github.io/cv-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,7 +40,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3",
-    "homepage": "http://jonthejon10.github.io/cv-project",
     "webpack-cli": "^4.8.0"
   }
 }
